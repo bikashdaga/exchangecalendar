@@ -11,7 +11,7 @@ We love working with contributors for Exchange EWS Provider, but it does require
 
 If you know some Javascript, it's worth having a look at the Object Oriented Programming to understand the basic concepts of class based coding and especially for xul window objects. 
 
-If you need to brush-up on programming, but are eager to start contributing immediately, please consider helping us find bugs in Github [Exchange EWS Provider][Exchange EWS Provider] or find bugs in the Issues tested by the [EricssonQA][EricssonQA] team. To brush up on Javascript skills before engaging with us, Dive Into Javascript [mozilla][mozilla] is an excellent resource. W3schools also has [notes on Javascript][w3schools] available through their website.  The programming concepts you will need to know include functions, working with classes, and some object-oriented programming basics. To brush up on XUL, Mozilla [XUL][XUL] is an easy and simple place to learn XUL, More of XUL are dynamically configured and cross-plateform.
+If you need to brush-up on programming, but are eager to start contributing immediately, please consider helping us find bugs in Github [Exchange EWS Provider][Exchange EWS Provider] or find bugs in the Issues tested by the [EricssonQA][EricssonQA] team. To brush up on Javascript skills before engaging with us, Dive Into Javascript [mozilla][mozilla] is an excellent resource. W3schools also has [notes on Javascript][w3schools] available through their website. The programming concepts you will need to know include functions, working with classes, and some object-oriented programming basics. Scaler Topics also have [JavaScript tutorial][Scaler] covering all the important concepts in JavaScript such as operators, loops, functions, OOPs, Asynchronous JS, and much more from the very basics to advanced level. To brush up on XUL, Mozilla [XUL][XUL] is an easy and simple place to learn XUL, More of XUL are dynamically configured and cross-plateform.
 
 Special thanks to all our [contributors][contributors]
 
@@ -21,6 +21,7 @@ Special thanks to all our [contributors][contributors]
 [Exchange EWS Provider]:  https://github.com/Ericsson/exchangecalendar/issues
 [XUL]:  https://developer.mozilla.org/en-US/Add-ons/Overlay_Extensions/XUL_School
 [contributors]: https://github.com/Ericsson/exchangecalendar/contributors
+[Scaler]:  https://www.scaler.com/topics/javascript/
 
 Questions are always welcome
 ----------------------------
